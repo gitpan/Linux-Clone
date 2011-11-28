@@ -1,0 +1,5 @@
+Revision history for Perl extension Linux::Clone
+
+0.01  Mon Nov 28 02:12:50 CET 2011
+	- cloned from Convert::Scalar.
+
